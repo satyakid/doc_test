@@ -9,4 +9,6 @@ This is just some random text about nothing. Let's just write some text.
 
 ## Floo Powder
 
-Floo powder can take you to a fireplace either near or far.
+Floo powder can take you to a fireplace either near or far. 
+
+Let's put a link to [my writeup on bears](Bears.md).
